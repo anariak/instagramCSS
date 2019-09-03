@@ -1,0 +1,55 @@
+body{
+    align-content: center;
+    background-color:lightgray;
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    background-color: white;
+    position: sticky;
+    text-align: center;
+    margin-top: 0;
+    height: 60px;
+    padding-top: 13px;
+}
+.cuadro{
+    text-align: center;
+    margin: 0 auto;
+    width: 100%
+}
+
+.cuadro  > .post{
+    text-align: center;
+    width: 45%;
+    display: inline-block;
+
+}
+.cuadro > .post > .tituloPost{
+    background-color: white;
+    height: 50px;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+.cuadro >.post >.imag{
+    margin: 0;
+}
+
+.cuadro > .post > .piefoto {
+    background-color: white;
+    height: 40px;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+img{
+    width: 100%;
+}
+h3{
+    margin: 0;
+}
+h5{
+    margin: 0;
+}
